@@ -38,8 +38,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bishoy-bakheet&show_icons=true&theme=dracula"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bishoy-bakheet&layout=compact&theme=dracula"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=bishoy-bakheet&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800"/>
+  
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishoy-bakheet&layout=compact&theme=dracula&hide_border=true"/>
 </p>
 
 ---
