@@ -3,17 +3,63 @@
 
 ---
 
-<div align="center">
-  <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
-</div>
+### 👨‍💻 About Me
+- 💻 I build responsive and high-performance web applications  
+- 🎨 I design user-centered and clean UI/UX experiences  
+- ⚛️ Specialized in React.js & modern frontend stack  
+- 🚀 Always improving performance, accessibility & scalability  
+- 📫 Email: **bishoybekheet@gmail.com**
 
 ---
 
-### 👨‍💻 About Me
-- 💻 Frontend Developer passionate about building clean & interactive UIs  
-- 🎨 UI/UX Designer focused on user-centered design  
-- 🚀 Currently improving my skills in **React & Next.js**  
-- 📫 Reach me: **bishoybekheet@gmail.com**
+### 🧠 What I Focus On
+- ⚡ Performance Optimization  
+- ♿ Accessibility (a11y)  
+- 🎯 Clean UI & UX  
+- 🔄 Reusable Components & Design Systems  
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,figma,xd,git,github,vscode"/>
+</p>
+
+---
+
+### 🎨 Design Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,xd"/>
+</p>
+
+---
+
+### 📊 GitHub Insights
+<p align="center">
+  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bishoy-bakheet&show_icons=true&theme=tokyonight"/>
+  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bishoy-bakheet&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+### 🔥 GitHub Activity
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bishoy-bakheet&theme=tokyonight"/>
+</p>
+
+---
+
+### 🚀 Featured Projects
+- 🔹 **BlueMail UI/UX Redesign** → Case Study + Prototype  
+- 🔹 **React App** → Responsive + API integration  
+- 🔹 **Landing Pages** → Clean UI + High conversion design  
+
+---
+
+### 📈 Current Goals
+- 🚀 Master Next.js & advanced React patterns  
+- 🎯 Build real-world production-level projects  
+- 💼 Land a Frontend Internship  
 
 ---
 
@@ -29,28 +75,5 @@
 
 ---
 
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,bootstrap,figma,xd,vscode"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=bishoy-bakheet&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800"/>
-  
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishoy-bakheet&layout=compact&theme=dracula&hide_border=true"/>
-</p>
-
----
-
-### 🚀 Featured Projects
-- 🔹 UI/UX Redesign for BlueMail  
-- 🔹 Responsive Web Applications  
-- 🔹 Interactive Frontend Projects  
-
----
-
 ### ✨ Fun Fact
-- I love turning ideas into real digital experiences 🚀
+- I turn ideas into real interactive experiences 🚀
