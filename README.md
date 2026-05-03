@@ -8,7 +8,7 @@
 - 🎨 I design user-centered and clean UI/UX experiences  
 - ⚛️ Specialized in React.js & modern frontend stack  
 - 🚀 Always improving performance, accessibility & scalability  
-- 📫 Email: **bishoybekheet@gmail.com**
+- 📫 Email: **bishoybekheet0@gmail.com**
 
 ---
 
